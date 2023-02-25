@@ -14,7 +14,7 @@
 
 ### Features
 - Easy To Configuration
-- Mining With 10+ Diffrent PC Parts
+- Mining With 10+ Different PC Parts
 - Easy Dashboard For Miner
 - Discord Subscription System
 
