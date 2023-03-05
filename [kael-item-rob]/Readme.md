@@ -25,6 +25,25 @@
 
 ```
 
+### For Radialmenu Event
+```
+    [1] = {
+        id = 'rob',
+        title = 'Rob',
+        icon = 'wallet',
+        items = {
+            {
+                id = 'robpolice',
+                title = 'Rob Player',
+                icon = 'search-dollar',
+                type = 'client',
+                event = 'kael-rob:client:useitemrobtoolbox',
+                shouldClose = true
+            },
+        }
+    },
+```
+
 
 ## Contains encrypted file to prevent leaks, everything necessary for changes is changeable
 
